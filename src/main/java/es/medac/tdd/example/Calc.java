@@ -8,7 +8,7 @@ public class Calc {
         this.a=i;
         this.b=i1;
     }
-
+patata
 
 
     public Integer restar() {
